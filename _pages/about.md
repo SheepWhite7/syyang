@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hiiiii~ I am 杨诗玥 from Fudan University.
+Hiiiii~ I am 杨诗玥 from Fudan University in the School of Data Science, Shanghai, China. 
+I'm currently advised by Prof. [Zhongyu Wei](http://www.fudan-disc.com/people/zywei) and carrying out my research at the [Data Intelligence and Social Computing Lab (Fudan DISC)](http://www.fudan-disc.com/).
+
 
 
 ### Research Interests
