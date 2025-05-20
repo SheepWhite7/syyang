@@ -29,8 +29,8 @@ My interested research topics are mostly around computational social science and
 Xiawei Liu\*, **Shiyue Yang\***, Xinnong Zhang, Haoyu Kuang, Libo Sun, Yihang Yang, Siming Chen, Xuanjing Huang, Zhongyu Wei.
 \* indicates equal contributions.
 
-- **PrePrint**[Simulate Anything: A Generalized Social Simulation Framework Driven by LLM Agents Based on a Large-Scale Real-World User Pool](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February/Authors&referrer=%5BHomepage%5D(%2F)).
-Xinnong Zhang, **Shiyue Yang\***, Xiawei Liu, Jiayu Lin, Libo Sun, Hanjia Lyu, Xinyi Mou, Siming Chen, Jiebo Luo, Xuanjing Huang, zhongyu wei
+- **PrePrint**[Simulate Anything: A Generalized Social Simulation Framework Driven by LLM Agents Based on a Large-Scale Real-World User Pool]([https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February/Authors&referrer=%5BHomepage%5D(%2F)](https://openreview.net/pdf?id=AKWfwsSlVB)).
+Xinnong Zhang, **Shiyue Yang**, Xiawei Liu, Jiayu Lin, Libo Sun, Hanjia Lyu, Xinyi Mou, Siming Chen, Jiebo Luo, Xuanjing Huang, zhongyu wei
 
 
 
